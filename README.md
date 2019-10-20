@@ -17,6 +17,18 @@ O/P: TTT
 GGGCGT
 
 QUESTION 5:
+Write a program to demonstrate the knowledge of students in working with classes and objects.
+Eg.,Create a class Film with string objects which stores name, language and lead_actor and
+category (action/drama/fiction/comedy). Also include an integer data member that stores the
+duration of the film. Include parameterized constructor, default constructor and accessory
+functions to film class. Flim objects can be initialized either using a constructor or accessor
+functions. Create a class FilmMain that includes a main function. In the main function create a
+vector object that stores the information about the film as objects. Use the suitable methods of
+vector class to iterate the vector object to display the following
+• The English film(s) that has Arnold as its lead actor and that runs for shortest duration.
+• The Tamil film(s) with Rajini as lead actor.
+• All the comedy movies.
+
 QUESTION 6:
 QUESTION 7:
 QUESTION 8:
